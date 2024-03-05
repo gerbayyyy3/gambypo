@@ -1,0 +1,27 @@
+{
+  "name": "gambypo",
+  "version": "1.0.0",
+  "description": "A simple module for string manipulation and validation",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerbayyyy3/gambypo"
+  },
+  "keywords": [
+    "string",
+    "manipulation",
+    "validation"
+  ],
+  "author": "gerbayyyy3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerbayyyy3/gambypo/issues"
+  },
+  "homepage": "https://github.com/gerbayyyy3/gambypo",
+  "dependencies": {
+    "haryap": "^1.0.0"
+  }
+}
